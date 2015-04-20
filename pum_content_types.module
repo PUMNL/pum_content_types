@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the PUM Content Types feature.
+ */
+
+include_once 'pum_content_types.features.inc';
